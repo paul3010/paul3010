@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi i 'am paul 👋
+<hr/>
+
 ### I'm fun or not
 
 <!--
