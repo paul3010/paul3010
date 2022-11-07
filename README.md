@@ -1,7 +1,7 @@
 ### Hi i 'am paul 👋
 <hr/>
-
-### I'm fun or not
+welcom to my github profil
+<img src="cover.jpg"/>
 
 <!--
 **paul3010/paul3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
