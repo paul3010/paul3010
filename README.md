@@ -1,6 +1,6 @@
 ### Hi i 'am paul 👋
 <hr/>
-welcom to my github profil
+welcom to my github profil 😄🔭
 <img src="cover.jpg" height ="250" width="1000"/>
 <!--
 **paul3010/paul3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
