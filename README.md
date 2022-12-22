@@ -1,8 +1,8 @@
-### Hi i 'am paul 👋
+### Bonjour je suis paul 👋
 <hr/>
-welcom to my github profil 😄🔭
+Bienvenue sur mon github profil 😄🔭 - 🌱 je suis à la recherche d'une alternance...
 
-<img src="img.jpg" height ="250" width="1000"/>
+<img src="img.jpg" height ="300" width="1000"/>
 <!--
 **paul3010/paul3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
