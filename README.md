@@ -2,7 +2,7 @@
 <hr/>
 welcom to my github profil 😄🔭
 
-<img src="img.png" height ="250" width="1000"/>
+<img src="img.jpg" height ="250" width="1000"/>
 <!--
 **paul3010/paul3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
